@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-
-# Introduction
 ![hedgy](https://cdn.discordapp.com/attachments/907781153665200148/936635702408527942/bladed_hedgehog_crop.PNG)
 
 You've landed on my about page, welcome! 
