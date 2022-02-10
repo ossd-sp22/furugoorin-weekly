@@ -20,8 +20,8 @@ Replace the first row with your own contribution.
 
 
 
-| Date #       | Contribution (Link)  | Type  | Description |
-|---|:---|:---|:---|
-| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
-|     |     |     |      |
-|     |     |     |      |
+| Date #       | Contribution (Link)                                | Type              | Description      |
+|---           |:---                                                |:---               |:---              |
+| Feb 10       | [Link](https://github.com/joannakl/ossd/pull/4)    | Course Website    |  Fixed a typo.   |
+|              |                                                    |                   |                  |
+
