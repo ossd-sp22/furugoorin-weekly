@@ -17,8 +17,6 @@ avatar: /furugoorin-weekly/images/bladed_hedgehog_crop.png
 # fallback text in case image is not served and/or for screen readers
 avatar_alt_text: hedgy_avatar
 
-excerpt_separator: <!--more-->
-
 # CUSTOMIZE
 #
 # Flags below are optional - customize them if you wish
