@@ -26,5 +26,5 @@ Replace the first row with your own contribution.
 | Feb 16 | [Link](https://en.wikipedia.org/w/index.php?title=Itzy&diff=prev&oldid=1072296731) | Wikipedia edit | Added section and activities for 2022 |
 | Mar 5 | [Link](https://github.com/joannakl/ossd/pull/14) | Course Website | Removed extraneous link
 | Apr 17 | [Link](https://www.openstreetmap.org/changeset/119818729) | OpenStreetMap | Added Tomo21 Sushi Restaurant 
-| Apr 17 | [Link](https://www.openstreetmap.org/changeset/119819884#map=19/40.65596/-74.00642) | OpenStreetMap | Added BOOKOFF BROOKLYN
+| Apr 17 | [Link](https://www.openstreetmap.org/changeset/119819884) | OpenStreetMap | Added BOOKOFF BROOKLYN
 
