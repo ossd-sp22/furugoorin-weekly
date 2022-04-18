@@ -27,4 +27,5 @@ Replace the first row with your own contribution.
 | Mar 5 | [Link](https://github.com/joannakl/ossd/pull/14) | Course Website | Removed extraneous link
 | Apr 17 | [Link](https://www.openstreetmap.org/changeset/119818729) | OpenStreetMap | Added Tomo21 Sushi Restaurant 
 | Apr 17 | [Link](https://www.openstreetmap.org/changeset/119819884) | OpenStreetMap | Added BOOKOFF BROOKLYN
+| Apr 17 | [Link](https://github.com/internetarchive/openlibrary/pull/6451) | Open Library | Pull request for issue [#6431](https://github.com/internetarchive/openlibrary/issues/6431)
 
