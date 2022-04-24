@@ -30,4 +30,5 @@ Replace the first row with your own contribution.
 | Apr 17 | [Link](https://github.com/internetarchive/openlibrary/pull/6451) | Open Library | Pull request for issue [#6431](https://github.com/internetarchive/openlibrary/issues/6431)
 | Apr 21 | [Link](https://github.com/internetarchive/openlibrary/issues/6054#issuecomment-1105624232) | Open Library | Comment in response to collaboration
 | Apr 22 | [Link](https://github.com/insin/nwb/issues/578) | nwb | Submitted an issue for a broken link in nwb documentation
+| Apr 24 | [Link](https://github.com/joannakl/ossd/pull/30) | Course Website | Fixed a typo
 
